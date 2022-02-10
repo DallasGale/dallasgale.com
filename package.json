@@ -28,7 +28,7 @@
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.8",
     "global": "^4.3.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-anchor-link-smooth-scroll": "^1.0.11",
